@@ -1,0 +1,176 @@
+// main style
+
+// section 1
+
+.section1_container {
+    background-color: $jelly-bean;
+    color: $white;
+    text-align: center;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    padding-top: 10em;
+    padding-bottom: 10em;
+}
+
+.section1_title { 
+    font-family: $raleway;
+    font-size: $xx-large;
+    color: $white; 
+    text-align: center; 
+    font-weight: $raleway-extra-light;
+} 
+    
+.section1_title-emphasis { 
+    font-family: $raleway; 
+    font-weight: $raleway-bold; 
+}
+
+
+// section 2
+
+.section2_container {
+    background-color: $quick-silver;
+    color: $white;
+    text-align: left;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    padding-top: 1em;
+    padding-bottom: 3em;
+}
+
+.section2_img{
+    width: 70vw;
+    padding-top: 3em;
+}
+
+.section2_title { 
+    font-family: $raleway;
+    font-size: $large;
+    color: $white; 
+    text-align: center; 
+    font-weight: $raleway-bold;
+} 
+
+.section2_text {
+    width: 50%;
+    margin: 0.5em;
+}
+
+
+// section 3
+
+.section3_container {
+    background-color: $snow;
+    color: $granite-gray;
+    text-align: left;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    padding-top: 1em;
+    padding-bottom: 3em;
+}
+
+.section3_img{
+    width: 70vw;
+    padding-top: 3em;
+}
+
+.section3_title { 
+    font-family: $raleway;
+    font-size: $large;
+    color: $granite-gray; 
+    text-align: center; 
+    font-weight: $raleway-bold;
+} 
+
+.section3_text {
+    width: 50%;
+    margin: 0.5em;
+}
+
+// section 4
+
+.section4_container {
+    background-color: $jelly-bean;
+    color: $white;
+    text-align: center;
+    align-items: center; 
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.section4_title { 
+    font-family: $raleway;
+    color: $white; 
+    font-size: $xx-large;
+    text-align: center; 
+    font-weight: $raleway-bold;
+} 
+
+// section 5
+
+.section5_container {
+    background-color: $snow;
+    color: $granite-gray;
+    text-align: left;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    padding-top: 1em;
+    padding-bottom: 3em;
+}
+
+.section5_img {
+    width: 30vw;
+    padding-top: 3em;
+}
+
+.section5_title { 
+    font-family: $raleway;
+    font-size: $large;
+    color: $granite-gray; 
+    text-align: center; 
+    font-weight: $raleway-bold;
+} 
+
+.section5_text {
+    width: 50%;
+    margin: 0.5em;
+}
+
+// section 6
+
+.section6_container {
+    background-color: $jelly-bean;
+    color: $white;
+    text-align: center;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    padding-top: 0.7em;
+    padding-bottom: 1em;
+    font-size: $large;
+}
+
+.section6_title { 
+    font-family: $raleway;
+    color: $white; 
+    font-size: $x-large;
+    text-align: center; 
+    font-weight: $raleway-bold;
+} 
+
+// footer
+
+.footer {
+    background-color: $granite-gray;
+    text-align: center;
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
+
+.footer_logo {
+    width: 150px;
+}
