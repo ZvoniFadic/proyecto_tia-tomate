@@ -1,0 +1,56 @@
+// typography styles
+
+// section 1
+
+.section1_title { 
+    font-family: $raleway;
+    font-size: $xx-large;
+    color: $white; 
+    text-align: center; 
+    font-weight: $raleway-extra-light;
+} 
+    
+.section1_title-emphasis { 
+    font-family: $raleway; 
+    font-weight: $raleway-bold; 
+}
+
+// section 2
+
+.section2_title { 
+    font-family: $raleway;
+    font-size: $large;
+    color: $white; 
+    text-align: center; 
+    font-weight: $raleway-bold;
+} 
+
+// section 3
+
+.section3_title { 
+    font-family: $raleway;
+    font-size: $large;
+    color: $granite-gray; 
+    text-align: center; 
+    font-weight: $raleway-bold;
+} 
+
+// section 4
+
+.section4_title { 
+    font-family: $raleway;
+    color: $white; 
+    font-size: $xx-large;
+    text-align: center; 
+    font-weight: $raleway-bold;
+} 
+
+// section 5
+
+.section5_title { 
+    font-family: $raleway;
+    font-size: $large;
+    color: $granite-gray; 
+    text-align: center; 
+    font-weight: $raleway-bold;
+} 
